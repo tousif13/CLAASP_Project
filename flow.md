@@ -21,3 +21,25 @@
 ## ciphers
 
 ![image](https://github.com/tousif13/CLAASP_Project/assets/33444140/67b2e14b-361b-4a9c-a5bb-a6231edbb1d7)
+
+### block_ciphers
+
+![image](https://github.com/tousif13/CLAASP_Project/assets/33444140/a258fdc1-1ff1-456b-897f-d169f79f39a3)
+
+### stream_ciphers
+
+![image](https://github.com/tousif13/CLAASP_Project/assets/33444140/23dadb98-bf7c-4c8a-a919-c313e190014d)
+
+### permutations
+
+![image](https://github.com/tousif13/CLAASP_Project/assets/33444140/2cf889db-f630-4d7b-a923-f9bc7a972f03)
+
+
+### hash_functions
+
+![image](https://github.com/tousif13/CLAASP_Project/assets/33444140/50f5c2ed-be7a-4685-9fac-f7f6029d1932)
+
+### toys
+
+![image](https://github.com/tousif13/CLAASP_Project/assets/33444140/80afa6b8-4e1d-45ca-8b33-a5422c3145d8)
+
